@@ -1,4 +1,4 @@
-[![MasterHead](https://history-computer.com/wp-content/uploads/2022/04/programming-development.jpg)
+![MasterHead](https://history-computer.com/wp-content/uploads/2022/04/programming-development.jpg)
 <h1 align="center">Hi 👋, I'm Regaib DİRİK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
