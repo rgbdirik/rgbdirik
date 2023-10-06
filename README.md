@@ -1,3 +1,4 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63vGKI29Q-U7jsPYA8sLoFoFl72Au-1aykI70mJq74W6_fcR8hQH7aBUl33pYjvKHVCA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Regaib DİRİK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -13,4 +14,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rgbdirik&show_icons=true&locale=en" alt="rgbdirik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgbdirik&" alt="rgbdirik" /></p>
-
