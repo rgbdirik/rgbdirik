@@ -1,4 +1,4 @@
-![MasterHead](https://history-computer.com/wp-content/uploads/2022/04/programming-development.jpg)
+![MasterHead][[(https://history-computer.com/wp-content/uploads/2022/04/programming-development.jpg)](https://res.cloudinary.com/practicaldev/image/fetch/s--AdZfJt-u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/nm7p2l8dzvw1lbxjwcfy.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AdZfJt-u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/nm7p2l8dzvw1lbxjwcfy.png)
 <h1 align="center">Hi 👋, I'm Regaib DİRİK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
