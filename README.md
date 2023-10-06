@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63vGKI29Q-U7jsPYA8sLoFoFl72Au-1aykI70mJq74W6_fcR8hQH7aBUl33pYjvKHVCA&usqp=CAU)
+![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63vGKI29Q-U7jsPYA8sLoFoFl72Au-1aykI70mJq74W6_fcR8hQH7aBUl33pYjvKHVCA&usqp=CAU](https://history-computer.com/wp-content/uploads/2022/04/programming-development.jpg))
 <h1 align="center">Hi 👋, I'm Regaib DİRİK</h1>
 <h3 align="center">... </h3>
 
