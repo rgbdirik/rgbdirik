@@ -1,6 +1,6 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63vGKI29Q-U7jsPYA8sLoFoFl72Au-1aykI70mJq74W6_fcR8hQH7aBUl33pYjvKHVCA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Regaib DİRİK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">... </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
